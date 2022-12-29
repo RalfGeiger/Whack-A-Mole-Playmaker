@@ -1,6 +1,8 @@
 # Whack-A-Mole-Playmaker
 A Whack A Mole Project in Playmaker and Unity
 
+![Screenshot](https://github.com/RalfGeiger/Whack-A-Mole-Playmaker/blob/main/Screenshot.PNG)
+
 This project is based on the "Whack-A-Mole" project by Firmox.
 
 https://www.youtube.com/watch?v=oqnr7THMbcU
