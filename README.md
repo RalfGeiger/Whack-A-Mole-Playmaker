@@ -2,8 +2,11 @@
 A Whack A Mole Project in Playmaker and Unity
 
 This project is based on the "Whack-A-Mole" project by Firmox.
+
 https://www.youtube.com/watch?v=oqnr7THMbcU
+
 https://github.com/Firnox/Whack-A-Mole
+
 It represents a fork. The project was newly implemented with Playmaker. The graphics are based on the original project by Firmox.
 
 Installation:
